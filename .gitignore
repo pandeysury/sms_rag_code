@@ -1,1 +1,15 @@
+# Environment variables
 .env
+
+# Data directory
+data/
+data/**
+
+# Database files (common types)
+*.db
+*.sqlite
+*.sqlite3
+
+# If you have a specific DB folder
+db/
+db/**
